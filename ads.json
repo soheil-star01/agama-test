@@ -1,1 +1,10 @@
-{}
+{
+    "my_project2": {
+        "gh_author": "soheil-star01",
+        "gh_repo_path": "agama-test",
+        "project_name": "my_project2",
+        "version": "1.0",
+        "project_description": "test",
+        "project_type": "community"
+    }
+}
