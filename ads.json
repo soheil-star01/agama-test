@@ -1,1 +1,15 @@
-{}
+{
+    "t2": {
+        "gh_author": "soheil-star01",
+        "gh_repo_path": "agama-test",
+        "project_name": "t2",
+        "version": "0.0.1",
+        "author": "soheil-star01",
+        "author_website": "https://github.com/soheil-star01/agama-test",
+        "github_uri": "https://github.com/soheil-star01/agama-test",
+        "project_description": "test",
+        "license": "MIT",
+        "last_updated": "1675533691010",
+        "project_type": "community"
+    }
+}
