@@ -8,6 +8,16 @@
         "authorWebsite": "",
         "githubUri": "",
         "license": "",
-        "lastUpdated": ""
+        "lastUpdated": "",
+        "configs": {
+            "author": "soheil-star01",
+            "author_website": "",
+            "github_uri": "",
+            "last_updated": "",
+            "license": "",
+            "project_description": "health_patched",
+            "type": "",
+            "version": "1.0.0"
+        }
     }
 }
